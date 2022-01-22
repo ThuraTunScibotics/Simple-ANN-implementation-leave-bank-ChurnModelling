@@ -32,8 +32,9 @@ The confusion matrix and accuracy score is as follow:
 - Actual not Leave & Predicted not Leave -> 176
 
 * Accuracy score is `0.855`
-
 ![ann1](https://user-images.githubusercontent.com/70876878/150642140-96cc5c97-3fc6-4851-afed-37f2ebcce8fe.PNG)
 
 ## Future work 
 * Need to improve the accuracy score
+
+### Please check the Notebook!
